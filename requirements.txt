@@ -1,0 +1,15 @@
+streamlit 
+groq 
+tenacity
+python-dotenv
+langchain
+openai
+chromadb
+tiktoken
+pandas
+numpy
+streamlit-chat
+fastapi
+uvicorn
+ipynb
+google-generativeai

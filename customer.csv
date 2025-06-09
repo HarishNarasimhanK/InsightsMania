@@ -1,0 +1,101 @@
+customer_id,platform,segment,SKU,ROAS,CTR,CPC,CPM,CPA,ROAS_percentage,impressions,clicks,conversions,spend,revenue,ad_name,ad_type
+CUST001,meta,premium,SKU_ELEC_001,3.2,2.1,0.85,12.5,28.5,320,15000,315,11,267.75,856.8,Summer Sale Electronics,carousel
+CUST002,google,budget,SKU_FASH_002,2.8,1.8,1.2,15.2,35.8,280,12000,216,6,215.28,602.784,Fashion Forward Spring,search
+CUST003,tiktok,youth,SKU_BEAUTY_003,4.1,3.2,0.65,8.9,18.2,410,18500,592,32,385.6,1580.96,Glow Up Challenge,video
+CUST004,meta,enterprise,SKU_TECH_004,2.5,1.5,1.8,22.1,72.5,250,8500,127.5,3,217.5,543.75,Tech Innovation Hub,single_image
+CUST005,google,premium,SKU_HOME_005,3.6,2.4,0.95,11.8,24.8,360,16200,388.8,15.7,372.06,1339.416,Home Sweet Home,shopping
+CUST006,tiktok,budget,SKU_SPORT_006,2.9,2.8,0.72,9.8,19.6,290,14800,414.4,21.1,298.592,866.916,Athletic Performance,video
+CUST007,meta,youth,SKU_GAME_007,5.2,4.1,0.48,6.2,11.8,520,22000,902,76.4,433.536,2254.387,Gaming Galaxy,carousel
+CUST008,google,enterprise,SKU_SOFT_008,1.8,1.2,2.1,28.5,118.2,180,6800,81.6,2.3,170.94,307.692,Software Solutions Pro,search
+CUST009,tiktok,premium,SKU_FOOD_009,3.8,3.5,0.58,7.8,16.5,380,19800,693,42,401.94,1527.372,Foodie Adventures,video
+CUST010,meta,budget,SKU_PET_010,2.7,2.2,0.92,13.1,27.8,270,13200,290.4,10.4,267.168,721.3536,Pet Paradise,single_image
+CUST011,google,youth,SKU_EDU_011,3.1,1.9,1.05,16.8,35.2,310,11500,218.5,6.2,218.265,676.4215,Learn & Grow,search
+CUST012,tiktok,enterprise,SKU_AUTO_012,2.2,1.6,1.35,19.7,61.8,220,9200,147.2,2.4,198.48,436.656,Auto Excellence,video
+CUST013,meta,premium,SKU_TRAVEL_013,4.5,3.8,0.52,7.1,13.7,450,21500,817,59.6,425.284,1913.778,Wanderlust Dreams,carousel
+CUST014,google,budget,SKU_HEALTH_014,2.6,1.7,1.25,18.9,45.2,260,10800,183.6,4.1,184.5,479.7,Health First,shopping
+CUST015,tiktok,youth,SKU_MUSIC_015,3.9,4.2,0.45,5.8,11.5,390,24000,1008,87.6,453.6,1769.04,Beat Drop Vibes,video
+CUST016,meta,enterprise,SKU_FIN_016,1.9,1.1,2.3,31.2,141.8,190,5900,64.9,1.6,158.7,301.53,Financial Freedom,single_image
+CUST017,google,premium,SKU_JEWELRY_017,4.2,2.6,0.78,10.4,19.5,420,17800,462.8,23.7,361.584,1518.6528,Sparkle & Shine,search
+CUST018,tiktok,budget,SKU_CRAFT_018,3.3,3.1,0.68,8.7,19.8,330,16500,511.5,25.8,348.22,1149.126,DIY Craft Corner,video
+CUST019,meta,youth,SKU_BOOK_019,2.4,2.0,0.98,14.2,34.1,240,12800,256,7.5,250.88,602.112,Reading Rainbow,carousel
+CUST020,google,enterprise,SKU_INDUSTRIAL_020,1.7,0.9,2.8,38.4,213.6,170,4500,40.5,0.5,113.4,192.78,Industrial Solutions,search
+CUST021,tiktok,premium,SKU_ART_021,4.6,4.0,0.48,6.5,12.0,460,23200,928,77.3,445.44,2049.024,Artistic Expression,video
+CUST022,meta,budget,SKU_GARDEN_022,2.8,2.3,0.88,12.8,26.4,280,14100,323.3,12.2,284.504,796.6112,Garden Paradise,single_image
+CUST023,google,youth,SKU_PHONE_023,3.7,2.1,0.89,14.1,29.8,370,15600,327.6,11,291.764,1079.5268,Mobile Mania,shopping
+CUST024,tiktok,enterprise,SKU_FURNITURE_024,2.1,1.4,1.58,22.3,79.5,210,8900,124.6,3.1,196.828,413.5388,Furniture Factory,video
+CUST025,meta,premium,SKU_WATCH_025,4.8,3.6,0.51,6.8,14.2,480,22800,820.8,57.8,418.608,2009.3184,Timepiece Treasures,carousel
+CUST026,google,budget,SKU_SHOE_026,2.5,1.6,1.32,19.8,49.5,250,9800,156.8,3.2,206.976,517.44,Step In Style,search
+CUST027,tiktok,youth,SKU_DRINK_027,3.4,3.7,0.62,8.1,17.8,340,18200,673.4,37.8,417.508,1419.5272,Thirst Quenchers,video
+CUST028,meta,enterprise,SKU_OFFICE_028,1.8,1.0,2.4,32.8,164.2,180,5600,56,0.8,134.4,241.92,Office Essentials,single_image
+CUST029,google,premium,SKU_CAMERA_029,4.3,2.8,0.72,9.6,18.0,430,18900,529.2,29.4,381.024,1638.4032,Picture Perfect,shopping
+CUST030,tiktok,budget,SKU_VITAMIN_030,3.0,2.9,0.75,9.9,22.5,300,15800,458.2,20.4,343.65,1030.95,Healthy Living,video
+CUST031,meta,youth,SKU_CONSOLE_031,5.1,4.3,0.46,5.9,10.9,510,24500,1053.5,96.6,484.61,2471.5110,Console Kingdom,carousel
+CUST032,google,enterprise,SKU_SERVER_032,1.6,0.8,3.1,41.2,258.1,160,4200,33.6,0.4,104.16,166.656,Server Solutions,search
+CUST033,tiktok,premium,SKU_MAKEUP_033,4.4,3.9,0.49,6.3,12.8,440,22600,881.4,68.9,431.886,1900.2984,Beauty Bliss,video
+CUST034,meta,budget,SKU_TOOL_034,2.6,2.1,0.91,13.4,29.1,260,13800,289.8,10,263.718,685.6668,Tool Time,single_image
+CUST035,google,youth,SKU_LAPTOP_035,3.8,2.2,0.86,13.7,27.4,380,16400,360.8,13.2,310.288,1179.0944,Laptop Legends,search
+CUST036,tiktok,enterprise,SKU_MEDICAL_036,2.0,1.3,1.72,24.8,95.4,200,8100,105.3,2.2,181.116,362.232,Medical Marvels,video
+CUST037,meta,premium,SKU_WINE_037,4.7,3.7,0.50,6.7,13.5,470,23400,865.8,64.1,432.9,2034.63,Wine Wonderland,carousel
+CUST038,google,budget,SKU_BIKE_038,2.4,1.5,1.38,20.7,55.2,240,8600,129,2.3,178.02,427.248,Bike Boulevard,shopping
+CUST039,tiktok,youth,SKU_SNACK_039,3.5,3.8,0.59,7.6,16.9,350,19400,737.2,43.6,434.948,1522.318,Snack Attack,video
+CUST040,meta,enterprise,SKU_SECURITY_040,1.9,1.1,2.2,30.1,136.8,190,6100,67.1,1.5,147.62,280.478,Security Shield,single_image
+CUST041,google,premium,SKU_PERFUME_041,4.1,2.7,0.74,9.8,19.2,410,17600,475.2,24.7,351.648,1441.7568,Scent Sensations,search
+CUST042,tiktok,budget,SKU_TOY_042,3.2,3.3,0.66,8.5,18.5,320,17200,567.6,30.7,374.816,1199.4112,Toy Treasures,video
+CUST043,meta,youth,SKU_TABLET_043,4.9,4.1,0.47,6.1,11.5,490,23800,975.8,84.9,458.586,2247.4714,Tablet Territory,carousel
+CUST044,google,enterprise,SKU_PRINTER_044,1.7,0.9,2.7,36.9,205.6,170,4800,43.2,0.6,116.64,198.288,Print Professionals,search
+CUST045,tiktok,premium,SKU_SKINCARE_045,4.5,4.1,0.48,6.2,12.2,450,23600,967.6,79.3,464.848,2091.816,Skin Sanctuary,video
+CUST046,meta,budget,SKU_BACKPACK_046,2.7,2.2,0.89,12.9,27.0,270,14000,308,11.4,274.12,740.124,Backpack Basics,single_image
+CUST047,google,youth,SKU_HEADPHONE_047,3.6,2.3,0.83,13.0,28.1,360,15900,365.7,13,303.681,1093.2516,Audio Adventures,shopping
+CUST048,tiktok,enterprise,SKU_MACHINERY_048,2.1,1.4,1.61,23.1,82.2,210,8700,121.8,2.9,196.098,411.8058,Machine Masters,video
+CUST049,meta,premium,SKU_CHOCOLATE_049,4.6,3.8,0.51,6.9,13.4,460,22900,870.2,65,442.634,2036.116,Chocolate Dreams,carousel
+CUST050,google,budget,SKU_MATTRESS_050,2.3,1.4,1.45,21.8,78.1,230,8400,117.6,1.8,170.52,392.196,Sleep Solutions,search
+CUST051,tiktok,youth,SKU_ENERGY_051,3.7,3.9,0.56,7.3,15.4,370,20100,783.9,50.9,438.984,1624.2408,Energy Boost,video
+CUST052,meta,enterprise,SKU_SCANNER_052,1.8,1.0,2.5,33.5,167.5,180,5500,55,0.7,137.5,247.5,Scan & Go,single_image
+CUST053,google,premium,SKU_RING_053,4.4,2.9,0.69,8.9,17.2,440,19200,556.8,32.4,384.192,1690.4448,Ring Royalty,shopping
+CUST054,tiktok,budget,SKU_PLUSH_054,3.1,3.2,0.67,8.6,19.4,310,16800,537.6,27.7,360.392,1117.2152,Plush Paradise,video
+CUST055,meta,youth,SKU_VR_055,5.3,4.4,0.45,5.7,10.2,530,25200,1108.8,108.7,498.96,2644.488,Virtual Ventures,carousel
+CUST056,google,enterprise,SKU_ROUTER_056,1.5,0.7,3.4,44.2,315.7,150,3900,27.3,0.3,92.82,139.23,Router Reality,search
+CUST057,tiktok,premium,SKU_HAIR_057,4.3,4.0,0.49,6.4,12.8,430,22400,896,70,438.72,1886.496,Hair Heaven,video
+CUST058,meta,budget,SKU_KITCHEN_058,2.8,2.4,0.86,12.4,25.8,280,14500,348,13.5,299.28,838.384,Kitchen Kings,single_image
+CUST059,google,youth,SKU_SPEAKER_059,3.9,2.5,0.78,12.1,23.4,390,17100,427.5,18.3,333.45,1300.455,Sound Sensation,search
+CUST060,tiktok,enterprise,SKU_CRANE_060,1.9,1.2,1.89,26.4,110.3,190,7800,93.6,1.7,176.904,336.1176,Crane Craft,video
+CUST061,meta,premium,SKU_COFFEE_061,4.8,3.9,0.49,6.5,12.8,480,24100,939.9,73.4,460.452,2210.1696,Coffee Culture,carousel
+CUST062,google,budget,SKU_CARPET_062,2.2,1.3,1.52,22.8,87.7,220,7900,102.7,1.9,156.104,343.4288,Carpet Castle,shopping
+CUST063,tiktok,youth,SKU_PROTEIN_063,3.6,3.6,0.58,7.7,17.2,360,19000,684,39.8,396.52,1427.472,Protein Power,video
+CUST064,meta,enterprise,SKU_PROJECTOR_064,2.0,1.1,2.1,29.2,146.0,200,6200,68.2,1.2,143.22,286.44,Project Pro,single_image
+CUST065,google,premium,SKU_NECKLACE_065,4.2,2.8,0.71,9.3,18.5,420,18500,518,28,367.78,1544.676,Necklace Nirvana,search
+CUST066,tiktok,budget,SKU_PUZZLE_066,3.0,3.0,0.71,9.2,21.3,300,16200,486,22.8,345.06,1035.18,Puzzle Palace,video
+CUST067,meta,youth,SKU_DRONE_067,5.0,4.2,0.46,6.0,11.0,500,24800,1041.6,94.7,479.336,2396.68,Drone Dynasty,carousel
+CUST068,google,enterprise,SKU_SWITCH_068,1.6,0.8,3.2,42.7,266.9,160,4100,32.8,0.4,105.12,168.192,Switch Systems,search
+CUST069,tiktok,premium,SKU_LOTION_069,4.4,4.1,0.48,6.1,11.9,440,23800,975.8,82,467.784,2058.2496,Lotion Luxury,video
+CUST070,meta,budget,SKU_UMBRELLA_070,2.5,2.0,0.95,14.3,35.8,250,12600,252,7,239.4,598.5,Umbrella Universe,single_image
+CUST071,google,youth,SKU_MOUSE_071,3.4,2.1,0.91,14.6,31.2,340,14800,310.8,10,283.228,962.9752,Mouse Mania,shopping
+CUST072,tiktok,enterprise,SKU_VALVE_072,2.1,1.3,1.65,23.8,91.5,210,8500,110.5,2.5,182.325,383.8825,Valve Victory,video
+CUST073,meta,premium,SKU_TEA_073,4.7,3.7,0.50,6.8,13.5,470,23200,858.4,63.6,429.2,2017.324,Tea Time Treasures,carousel
+CUST074,google,budget,SKU_CURTAIN_074,2.4,1.5,1.41,21.2,70.7,240,8800,132,2.1,186.12,446.688,Curtain Call,search
+CUST075,tiktok,youth,SKU_GUMMY_075,3.3,3.4,0.63,8.2,18.6,330,17800,605.2,32.5,381.276,1258.2108,Gummy Galaxy,video
+CUST076,meta,enterprise,SKU_MONITOR_076,1.9,1.1,2.3,30.8,140.4,190,6000,66,1.3,151.8,288.42,Monitor Magic,single_image
+CUST077,google,premium,SKU_BRACELET_077,4.3,2.9,0.69,8.8,17.2,430,19500,565.5,32.9,390.195,1677.8385,Bracelet Bliss,shopping
+CUST078,tiktok,budget,SKU_CARD_078,2.9,2.8,0.76,9.5,22.1,290,15400,431.2,19.5,327.712,950.3648,Card Collection,video
+CUST079,meta,youth,SKU_CAMERA_079,4.8,4.0,0.48,6.2,12.5,480,23600,944,75.5,453.6,2177.28,Camera Craft,carousel
+CUST080,google,enterprise,SKU_CABLE_080,1.7,0.9,2.9,39.1,217.3,170,4600,41.4,0.5,120.06,204.102,Cable Connection,search
+CUST081,tiktok,premium,SKU_SERUM_081,4.5,4.2,0.47,6.0,11.2,450,24200,1016.4,90.8,477.808,2150.136,Serum Supreme,video
+CUST082,meta,budget,SKU_PILLOW_082,2.6,2.1,0.90,13.2,28.6,260,13600,285.6,10,257.04,668.304,Pillow Paradise,single_image
+CUST083,google,youth,SKU_KEYBOARD_083,3.5,2.2,0.87,13.8,29.6,350,15700,345.4,11.7,300.498,1051.743,Keyboard Kingdom,shopping
+CUST084,tiktok,enterprise,SKU_PUMP_084,2.0,1.2,1.75,25.2,105.0,200,8200,98.4,1.9,172.2,344.4,Pump Pros,video
+CUST085,meta,premium,SKU_HONEY_085,4.6,3.8,0.51,6.9,13.4,460,22700,862.6,64.4,439.926,2023.6596,Honey Haven,carousel
+CUST086,google,budget,SKU_LAMP_086,2.3,1.4,1.47,22.1,78.9,230,8200,114.8,1.7,168.786,388.2078,Lamp Lounge,search
+CUST087,tiktok,youth,SKU_SMOOTHIE_087,3.4,3.5,0.61,8.0,18.0,340,18600,651,36.2,396.61,1348.474,Smoothie Station,video
+CUST088,meta,enterprise,SKU_TABLET_088,1.8,1.0,2.4,32.0,160.0,180,5800,58,0.8,139.2,250.56,Tablet Tech,single_image
+CUST089,google,premium,SKU_EARRING_089,4.1,2.7,0.75,9.9,20.8,410,17200,464.4,22.3,348.3,1427.03,Earring Elegance,shopping
+CUST090,tiktok,budget,SKU_STICKER_090,3.1,3.1,0.68,8.7,19.7,310,16600,514.6,26.1,349.928,1084.7768,Sticker Story,video
+CUST091,meta,youth,SKU_SMARTWATCH_091,5.1,4.3,0.46,5.8,10.7,510,25000,1075,100.5,494.25,2520.675,Smartwatch Society,carousel
+CUST092,google,enterprise,SKU_NETWORK_092,1.6,0.8,3.1,41.9,262.5,160,4300,34.4,0.4,106.65,170.64,Network Nexus,search
+CUST093,tiktok,premium,SKU_CLEANSER_093,4.4,4.0,0.48,6.3,12.6,440,23400,936,74.3,449.28,1976.832,Cleanser Club,video
+CUST094,meta,budget,SKU_BLANKET_094,2.7,2.2,0.88,12.7,26.1,270,14200,312.4,12,274.912,742.2624,Blanket Bliss,single_image
+CUST095,google,youth,SKU_WEBCAM_095,3.6,2.3,0.84,13.4,28.6,360,15800,363.4,12.7,305.256,1098.9216,Webcam World,shopping
+CUST096,tiktok,enterprise,SKU_MOTOR_096,2.1,1.4,1.59,22.7,81.2,210,8600,120.4,2.8,191.436,402.0156,Motor Masters,video
+CUST097,meta,premium,SKU_SPICE_097,4.7,3.9,0.49,6.6,12.7,470,23500,916.5,72.2,449.385,2112.1095,Spice Spectacular,carousel
+CUST098,google,budget,SKU_TOWEL_098,2.4,1.5,1.43,21.5,71.7,240,8500,127.5,2,182.275,437.46,Towel Territory,search
+CUST099,tiktok,youth,SKU_JERKY_099,3.5,3.6,0.60,7.8,17.2,350,19200,691.2,40.2,414.72,1451.52,Jerky Journey,video
+CUST100,meta,enterprise,SKU_DISPLAY_100,1.9,1.1,2.2,29.7,135.0,190,6100,67.1,1.4,147.62,280.478,Display Dynamics,single_image
