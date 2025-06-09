@@ -82,7 +82,7 @@ def get_sql_results(query: str) -> List[Tuple]:
     """
     This function takes a SQL query as input and returns the corresponding results.
     """
-    conn = sqlite3.connect('c:\WORK\TraeProjects\Intern\customer.db')
+    conn = sqlite3.connect('customer.db')
     cursor = conn.cursor()
     results = cursor.execute(query)
     rows = []   
